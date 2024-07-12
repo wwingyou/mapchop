@@ -1,0 +1,9 @@
+{
+  "name": "mapchop",
+  "version": "1.0.0",
+  "description": "chop the map and get locations",
+  "main": "index.js",
+  "repository": "https://github.com/wwingyou/mapchop",
+  "author": "wwingyou",
+  "license": "MIT"
+}
